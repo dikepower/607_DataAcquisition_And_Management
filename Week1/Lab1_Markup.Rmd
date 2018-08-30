@@ -1,5 +1,5 @@
 ---
-title: "Data607 Week1 Assigments"
+title: "Data607 Week1 Assignment"
 author: "GuangQiu"
 date: "August 29, 2018"
 output: html_document
@@ -14,6 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 file <-  "https://archive.ics.uci.edu/ml/machine-learning-databases/mushroom/agaricus-lepiota.data"
+# reference https://github.com/dikepower/607_DataAcquisition_And_Management/blob/master/Week1/agaricus-lepiota.data.csv
 
 Mushroom_df<- read.csv(file,header=FALSE)
 ```
