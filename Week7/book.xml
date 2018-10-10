@@ -1,30 +1,24 @@
-<table>
-            <tr>
-                <td>Title</td>
-                <td>Author</td>
-                <td>Year</td>
-                <td>ISBN-13</td>
-                <td>Price</td>
-
-            </tr>
-                <td>Automate the Boring Stuff with Python: Practical Programming for Total Beginners</td>
-                <td>AI Sweigart</td>
-                <td>2015</td>
-                <td>ISBN-13</td>
-                <td>25</td>
-            <tr>
-                <td>Engineering Stem Cells for Tissue Regeneration</td>
-                <td>Ngan F Huang,  Nicolas L'Heureux, Song L</td>
-                <td>2018</td>
-                <td>978-9813147744</td>
-                <td>146</td>
-            </tr>
-
-            <tr>
-                <td>Culturally Responsive Teaching and The Brain: Promoting Authentic Engagement and Rigor Among Culturally and Linguistically Diverse Students</td>
-                <td>Zaretta L. Hammond</td>
-                <td>2018</td>
-                <td>978-1483308012</td>
-                <td>35</td>
-            </tr>
-</table>
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <0>
+        <author>AI Sweigart</author>
+        <title>Automate the Boring Stuff with Python: Practical Programming for Total Beginners</title>
+        <isbn-13>Ę978-1593275990</isbn-13>
+        <year>2015</year>
+        <price>25</price>
+    </0>
+    <1>
+        <author>Ngan F Huang; Nicolas L; Heureux, Song </author>
+        <title>Engineering Stem Cells for Tissue Regeneration</title>
+        <isbn-13>978-9813147744</isbn-13>
+        <year>2018</year>
+        <price>146</price>
+    </1>
+    <2>
+        <author>ĘZaretta L. Hammond</author>
+        <title>Culturally Responsive Teaching and The Brain: Promoting Authentic Engagement and Rigor Among Culturally and Linguistically Diverse Students</title>
+        <isbn-13>978-1483308012</isbn-13>
+        <year>2018</year>
+        <price>35</price>
+    </2>
+</root>
